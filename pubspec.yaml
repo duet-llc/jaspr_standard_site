@@ -1,0 +1,14 @@
+name: jaspr_standard_site
+description: Utilities for implementing the standard.site lexicon in jaspr.site projects.
+version: 1.0.0
+repository: https://github.com/duet-llc/jaspr_standard_site
+
+environment:
+  sdk: ^3.12.1
+
+dependencies:
+  # No runtime dependencies yet.
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
